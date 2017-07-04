@@ -1,0 +1,9 @@
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\bin\Debug\netcoreapp1.1\WebRavenDB.deps.json
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\bin\Debug\netcoreapp1.1\WebRavenDB.runtimeconfig.json
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\bin\Debug\netcoreapp1.1\WebRavenDB.runtimeconfig.dev.json
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\bin\Debug\netcoreapp1.1\WebRavenDB.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\obj\Debug\netcoreapp1.1\WebRavenDB.csprojResolveAssemblyReference.cache
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\obj\Debug\netcoreapp1.1\WebRavenDB.AssemblyInfo.cs
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\bin\Debug\netcoreapp1.1\WebRavenDB.pdb
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\obj\Debug\netcoreapp1.1\WebRavenDB.dll
+c:\users\tadriano\documents\visual studio 2017\Projects\WebRavenDB\WebRavenDB\obj\Debug\netcoreapp1.1\WebRavenDB.pdb
